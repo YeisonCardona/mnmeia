@@ -1,1 +1,0 @@
-import{i as n}from"./chunk-K2WZSWY2.js";import{$a as a}from"./chunk-THTLYHVG.js";import"./chunk-UUTQQLSI.js";var t=class e{static \u0275fac=function(o){return new(o||e)};static \u0275cmp=a({type:e,selectors:[["app-dashboard"]],decls:0,vars:0,template:function(o,r){},dependencies:[n],encapsulation:2})};export{t as DashboardComponent};
