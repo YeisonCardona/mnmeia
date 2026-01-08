@@ -1,0 +1,1 @@
+var O={NAME:"Mnemia",VERSION:"1.0.0-alpha",MAYOR_VERSION:"1.0.0",INPUT_COMMANDS:["RESP","EVT"],DEBUG:!1,LOGO_FONT:"Space_Grotesk",LOGO_FONT_RATIO:.6,LOGO_FONT_GAP:"0.5rem"};export{O as a};

@@ -1,0 +1,1 @@
+import{Pb as t,Qb as a,kc as s,qb as o}from"./chunk-PGD6FO4T.js";var p=class n{static \u0275fac=function(e){return new(e||n)};static \u0275cmp=o({type:n,selectors:[["app-sandbox"]],decls:2,vars:0,template:function(e,i){e&1&&(t(0,"h1"),s(1,"Sandbox"),a())},encapsulation:2})};export{p as SandboxComponent};
