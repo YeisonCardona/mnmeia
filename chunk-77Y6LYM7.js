@@ -1,0 +1,1 @@
+var O={NAME:"Mnemia",VERSION:"1.0.0-alpha",MAYOR_VERSION:"1.0.0",URL:"https://mnemia.dunderlab.com/",EMAIL:"mnemia@dunderlab.com",YEAR:"2026",INPUT_COMMANDS:["RESP","EVT"],DEBUG:!1,LOGO_FONT:"Space_Grotesk",LOGO_FONT_RATIO:.6,LOGO_SIZE:"50px",LOGO_FONT_GAP:"0.5rem"};export{O as a};

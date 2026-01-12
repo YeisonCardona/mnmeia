@@ -1,0 +1,1 @@
+import{fa as e,m as n}from"./chunk-HYQBNKYJ.js";var a=class i{activeLinkSubject=new n("");_mainAction$=new n(null);mainAction$=this._mainAction$.asObservable();setActiveLink(t){this.activeLinkSubject.next(t)}setMainAction(t){this._mainAction$.next(t)}static \u0275fac=function(o){return new(o||i)};static \u0275prov=e({token:i,factory:i.\u0275fac,providedIn:"root"})};export{a};
